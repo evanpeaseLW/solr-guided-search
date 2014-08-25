@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="solrj-lib">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Dev/solr_git/lucene-solr/solr/dist/solr-velocity-5.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/Dev/solr_git/lucene-solr/solr/dist/solr-solrj-5.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/Dev/solr_git/lucene-solr/solr/dist/solr-map-reduce-5.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/Dev/solr_git/lucene-solr/solr/dist/solr-langid-5.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/Dev/solr_git/lucene-solr/solr/dist/solr-dataimporthandler-extras-5.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/Dev/solr_git/lucene-solr/solr/dist/solr-morphlines-core-5.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/Dev/solr_git/lucene-solr/solr/dist/solr-clustering-5.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/Dev/solr_git/lucene-solr/solr/dist/solr-analysis-extras-5.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/Dev/solr_git/lucene-solr/solr/dist/solr-core-5.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/Dev/solr_git/lucene-solr/solr/dist/solr-cell-5.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/Dev/solr_git/lucene-solr/solr/dist/solr-uima-5.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/Dev/solr_git/lucene-solr/solr/dist/solr-morphlines-cell-5.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/Dev/solr_git/lucene-solr/solr/dist/solr-dataimporthandler-5.0.0-SNAPSHOT.jar!/" />
+      <root url="file://$USER_HOME$/Dev/solr_git/lucene-solr/solr/dist/solrj-lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Dev/solr_git/lucene-solr/solr/dist/solrj-lib" recursive="false" />
+  </library>
+</component>
