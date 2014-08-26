@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This goes in Solr conf directory -->
+<category name="Systems" id="01">
+	<category name="Notebooks" id="0101">
+		<category name="PC Notebooks" id="010101">
+			<facetField displayName="Category" fieldName="cat" />
+			<facetField displayName="Price Range" fieldName="price" range="true">
+				<rangeQuery displayName="$0 to $100">price:[0 TO 100]</rangeQuery>
+				<rangeQuery displayName="$100 and up">price:[100 TO *]</rangeQuery>
+			</facetField>
+			<facetField displayName="Manufacturer" fieldName="manu" />
+		</category>
+		<category name="MacBooks" id="010102">
+			<facetField displayName="Category" fieldName="cat" />
+			<facetField displayName="Price Range" fieldName="price" range="true">
+				<rangeQuery displayName="$0 to $100">price:[0 TO 100]</rangeQuery>
+				<rangeQuery displayName="$100 and up">price:[100 TO *]</rangeQuery>
+			</facetField>
+			<facetField displayName="Manufacturer" fieldName="manu" />
+		</category>
+		<category name="Gaming Notebooks" id="010103">
+			<facetField displayName="Category" fieldName="cat" />
+			<facetField displayName="Price Range" fieldName="price" range="true">
+				<rangeQuery displayName="$0 to $100">price:[0 TO 100]</rangeQuery>
+				<rangeQuery displayName="$100 and up">price:[100 TO *]</rangeQuery>
+			</facetField>
+			<facetField displayName="Manufacturer" fieldName="manu" />
+		</category>
+	</category>
+	<category name="Desktops" id="0102">
+	</category>
+	<category name="Servers" id="0103">
+	</category>
+</category>
