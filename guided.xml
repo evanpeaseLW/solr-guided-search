@@ -10,7 +10,7 @@
 			</facetField>
 			<facetField displayName="Manufacturer" fieldName="manu" />
 		</category>
-		<category name="MacBooks" id="010102">
+		<category name="MacBooks" id="010102" fq="cat_id:010102" qf="" bq="">
 			<facetField displayName="Category" fieldName="cat" />
 			<facetField displayName="Price Range" fieldName="price" range="true">
 				<rangeQuery displayName="$0 to $100">price:[0 TO 100]</rangeQuery>
